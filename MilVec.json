@@ -470,7 +470,7 @@
     "Type": "2S1",
     "Owner": "Russian Federation",
     "Number": "111",
-    "Description": "Has a black line on each track wheel.",
+    "Description": "None",
     "LocSeen": [
       {
         "PlaceName": "Kalinkovichi",
@@ -491,7 +491,7 @@
     "Type": "2S1",
     "Owner": "Russian Federation",
     "Number": "115",
-    "Description": "Has a black line on each track wheel.",
+    "Description": "None",
     "LocSeen": [
       {
         "PlaceName": "Kalinkovichi",
@@ -512,7 +512,7 @@
     "Type": "2S1",
     "Owner": "Russian Federation",
     "Number": "113",
-    "Description": "Has a black line on each track wheel.",
+    "Description": "None",
     "LocSeen": [
       {
         "PlaceName": "Kalinkovichi",
@@ -533,7 +533,7 @@
     "Type": "2S1",
     "Owner": "Russian Federation",
     "Number": "112",
-    "Description": "Has a black line on each track wheel.",
+    "Description": "None",
     "LocSeen": [
       {
         "PlaceName": "Kalinkovichi",
@@ -550,22 +550,127 @@
     ]
   },
   {
-    "Category": "SPA",
-    "Type": "2S1",
+    "Category": "APC",
+    "Type": "MT-LB",
     "Owner": "Russian Federation",
-    "Number": "114",
-    "Description": "Has a black line on each track wheel.",
+    "Number": "124",
+    "Description": "None",
     "LocSeen": [
       {
-        "PlaceName": "Kalinkovichi",
-        "Country": "Belarus",
-        "Coordinates": "52.140512, 29.342379",
-        "Date": "30-01-2022",
-        "Time": "11:00",
+        "PlaceName": "Krasnodar",
+        "Country": "Russia",
+        "Coordinates": "45.002655, 38.964745",
+        "Date": "27-01-2022",
+        "Time": "None",
         "LinksToProof": [
-          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
-          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
-          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+          "https://twitter.com/Illegal_Peng/status/1487962830435504128",
+          "https://twitter.com/GirkinGirkin/status/1487433627306807297",
+          "https://www.tiktok.com/@user30419228/video/7057778799361936642"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "APC",
+    "Type": "MT-LB",
+    "Owner": "Russian Federation",
+    "Number": "129",
+    "Description": "None",
+    "LocSeen": [
+      {
+        "PlaceName": "Krasnodar",
+        "Country": "Russia",
+        "Coordinates": "45.002655, 38.964745",
+        "Date": "27-01-2022",
+        "Time": "None",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487962830435504128",
+          "https://twitter.com/GirkinGirkin/status/1487433627306807297",
+          "https://www.tiktok.com/@user30419228/video/7057778799361936642"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "APC",
+    "Type": "MT-LB",
+    "Owner": "Russian Federation",
+    "Number": "128",
+    "Description": "None",
+    "LocSeen": [
+      {
+        "PlaceName": "Krasnodar",
+        "Country": "Russia",
+        "Coordinates": "45.002655, 38.964745",
+        "Date": "27-01-2022",
+        "Time": "None",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487962830435504128",
+          "https://twitter.com/GirkinGirkin/status/1487433627306807297",
+          "https://www.tiktok.com/@user30419228/video/7057778799361936642"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "APC",
+    "Type": "MT-LB",
+    "Owner": "Russian Federation",
+    "Number": "121",
+    "Description": "None",
+    "LocSeen": [
+      {
+        "PlaceName": "Krasnodar",
+        "Country": "Russia",
+        "Coordinates": "45.002655, 38.964745",
+        "Date": "27-01-2022",
+        "Time": "None",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487962830435504128",
+          "https://twitter.com/GirkinGirkin/status/1487433627306807297",
+          "https://www.tiktok.com/@user30419228/video/7057778799361936642"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "APC",
+    "Type": "MT-LB",
+    "Owner": "Russian Federation",
+    "Number": "118",
+    "Description": "None",
+    "LocSeen": [
+      {
+        "PlaceName": "Krasnodar",
+        "Country": "Russia",
+        "Coordinates": "45.002655, 38.964745",
+        "Date": "27-01-2022",
+        "Time": "None",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487962830435504128",
+          "https://twitter.com/GirkinGirkin/status/1487433627306807297",
+          "https://www.tiktok.com/@user30419228/video/7057778799361936642"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "APC",
+    "Type": "MT-LB",
+    "Owner": "Russian Federation",
+    "Number": "120",
+    "Description": "None",
+    "LocSeen": [
+      {
+        "PlaceName": "Krasnodar",
+        "Country": "Russia",
+        "Coordinates": "45.002655, 38.964745",
+        "Date": "27-01-2022",
+        "Time": "None",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487962830435504128",
+          "https://twitter.com/GirkinGirkin/status/1487433627306807297",
+          "https://www.tiktok.com/@user30419228/video/7057778799361936642"
         ]
       }
     ]
