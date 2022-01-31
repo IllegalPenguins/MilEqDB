@@ -422,5 +422,152 @@
         ]
       }
     ]
+  },
+  {
+    "Category": "SPA",
+    "Type": "2S1",
+    "Owner": "Russian Federation",
+    "Number": "114",
+    "Description": "Has a black line on each track wheel.",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "APC",
+    "Type": "BTR-60",
+    "Owner": "Russian Federation",
+    "Number": "574",
+    "Description": "None",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "SPA",
+    "Type": "2S1",
+    "Owner": "Russian Federation",
+    "Number": "111",
+    "Description": "Has a black line on each track wheel.",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "SPA",
+    "Type": "2S1",
+    "Owner": "Russian Federation",
+    "Number": "115",
+    "Description": "Has a black line on each track wheel.",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "SPA",
+    "Type": "2S1",
+    "Owner": "Russian Federation",
+    "Number": "113",
+    "Description": "Has a black line on each track wheel.",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "SPA",
+    "Type": "2S1",
+    "Owner": "Russian Federation",
+    "Number": "112",
+    "Description": "Has a black line on each track wheel.",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
+  },
+  {
+    "Category": "SPA",
+    "Type": "2S1",
+    "Owner": "Russian Federation",
+    "Number": "114",
+    "Description": "Has a black line on each track wheel.",
+    "LocSeen": [
+      {
+        "PlaceName": "Kalinkovichi",
+        "Country": "Belarus",
+        "Coordinates": "52.140512, 29.342379",
+        "Date": "30-01-2022",
+        "Time": "11:00",
+        "LinksToProof": [
+          "https://twitter.com/Illegal_Peng/status/1487947219085017091",
+          "https://twitter.com/GirkinGirkin/status/1487871906216914946",
+          "https://www.tiktok.com/@a.young095/video/7058946988301225222"
+        ]
+      }
+    ]
   }
 ]
